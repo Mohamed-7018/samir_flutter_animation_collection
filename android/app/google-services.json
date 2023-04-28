@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "303813352822",
+    "project_id": "trials-linkedin",
+    "storage_bucket": "trials-linkedin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303813352822:android:890e98ba3f9aea4b8fae57",
+        "android_client_info": {
+          "package_name": "com.example.google_maps_directions_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303813352822-7nrvu929incu9cs31sdq75tmbj3c7tou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_maps_directions_saver",
+            "certificate_hash": "adf9f016bb20a89fc41441af2ca4103767b02c30"
+          }
+        },
+        {
+          "client_id": "303813352822-t2b3q323n7ekeaft1doi6grad6eer95f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvKS0ruIENTChQBNJyITsSyfadziINe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303813352822-no9sv0dfqi7302p6ka3pip64tpio4ocn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303813352822-9i55maroth0amt1v6m34ba2qojkhefmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapsDirectionsSaver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303813352822:android:5cdc0c527f9d7ce38fae57",
+        "android_client_info": {
+          "package_name": "com.example.samir_flutter_ui_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303813352822-0lmt856h2knj0121o40pebhstkp5qm3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samir_flutter_ui_challenge",
+            "certificate_hash": "adf9f016bb20a89fc41441af2ca4103767b02c30"
+          }
+        },
+        {
+          "client_id": "303813352822-t2b3q323n7ekeaft1doi6grad6eer95f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvKS0ruIENTChQBNJyITsSyfadziINe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303813352822-no9sv0dfqi7302p6ka3pip64tpio4ocn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303813352822-9i55maroth0amt1v6m34ba2qojkhefmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapsDirectionsSaver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

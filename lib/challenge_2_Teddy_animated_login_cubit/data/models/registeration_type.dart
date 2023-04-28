@@ -1,0 +1,2 @@
+
+enum RegistrationType { login, signup }

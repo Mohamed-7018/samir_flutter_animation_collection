@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303813352822-ao9hc1h2449egtr2ghm92t94rci07c35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303813352822-ao9hc1h2449egtr2ghm92t94rci07c35</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>303813352822-7nrvu929incu9cs31sdq75tmbj3c7tou.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOrOq7TPMHrjlZfw5QoBJLWMdad4PJqQc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303813352822</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.samirFlutterUiChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>trials-linkedin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trials-linkedin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303813352822:ios:a63efa5cc1590b118fae57</string>
+</dict>
+</plist>
