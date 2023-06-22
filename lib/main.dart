@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:samir_flutter_ui_challenge/challenge_2_Teddy_animated_login_cubit/my_app.dart';
+import 'package:samir_flutter_ui_challenge/challenge_3_animated_gs_feedback/my_app.dart';
 
 
 void main() async {
@@ -8,7 +8,7 @@ void main() async {
   // await Firebase.initializeApp(
   //   options: DefaultFirebaseOptions.currentPlatform,
   // );
-  runApp(const TeddyAnimatedLogin());
+  runApp(const AnimatedGoogleSheetFeedback());
 }
 
 

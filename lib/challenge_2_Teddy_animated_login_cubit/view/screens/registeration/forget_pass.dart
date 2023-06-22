@@ -8,10 +8,10 @@ class ForgetPassWord extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: SafeArea(
           child: Stack(
-        children: const [
+        children: [
           VariousDiscs(),
           SingleChildScrollView(child: ForgetPassForm()),
         ],

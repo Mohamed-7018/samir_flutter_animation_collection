@@ -322,8 +322,8 @@ class SignUpForm extends StatelessWidget {
               },
               builder: (context, state) {
                 return SignupCubit.get(context).isLoading
-                    ? Row(
-                        children: const [
+                    ? const Row(
+                        children: [
                           SpinKitCubeGrid(
                               color: GlobalAppColors.appPink,
                               size: GlobalAppSizes.s_40),

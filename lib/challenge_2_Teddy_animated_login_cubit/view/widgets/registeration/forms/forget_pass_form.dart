@@ -109,8 +109,8 @@ class ForgetPassForm extends StatelessWidget {
             child: BlocBuilder<ForgetPassCubit, ForgetPassState>(
               builder: (context, state) {
                 return ForgetPassCubit.get(context).isLoading
-                    ? Row(
-                        children: const [
+                    ? const Row(
+                        children: [
                           SpinKitCubeGrid(
                               color: GlobalAppColors.appPink,
                               size: GlobalAppSizes.s_40),
