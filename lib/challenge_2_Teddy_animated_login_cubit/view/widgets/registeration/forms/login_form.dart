@@ -182,6 +182,7 @@ class LoginForm extends StatelessWidget {
                             );
                           },
                         ),
+                        
                         GestureDetector(
                           onTap: () {
                             Navigator.push(
